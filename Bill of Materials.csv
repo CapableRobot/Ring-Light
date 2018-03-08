@@ -1,0 +1,15 @@
+Designator,QTY,Description,Value,MFG,SKU,URL
+C1 - C4,4,1206 Capacitor,10 uF,Generic,,
+C5 - C8 ,4,0805 Capacitor,100 nF,Generic,,
+D1 - D16,16,Adafruit Neopixel,Cool White,Adafruit,2375,https://www.adafruit.com/product/2375
+D1 - D16,0,Adafruit Neopixel,Warm White,Adafruit,2376,https://www.adafruit.com/product/2376
+J1,1,3.5mm TRS Audio Jack,,CUI,SJ-3524-SMT-TR,https://octopart.com/sj-3524-smt-tr-cui-25947226
+R1,1,0805 Resistor,330 ohm,Generic,,
+,,,,,,
+,1,LED Ring Light PCB [PPLG],,Capable Robot,Ring Light,https://oshpark.com/projects/HYLEr5Qr
+,1,Clamp PCB [PPLG],,Capable Robot,Clamp,https://oshpark.com/projects/yLcuQ7yc
+,2,M3x15 SHCS,,Generic,,
+,2,M3 Hex Nut,,Generic,,
+,,,,,,
+,1,HDMI Microscope,,Opti-Tekscope,OT-M,link.capablerobot.com/opti-otm
+,1,Clamp Arm,,Pangshi,Magic Arm,http://link.capablerobot.com/pangshi-magicarm
