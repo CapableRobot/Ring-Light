@@ -47,6 +47,9 @@ Designed by [Capable Robot Components](http://capablerobot.com).  Follow us on [
 |  | Clamp Arm | 1 |  | [Pangshi : Magic Arm](http://link.capablerobot.com/pangshi-magicarm) |
 
 
-## License
+## License 
 
-This work is shared under a [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) License.
+| OSHW Certification | License |
+| :---: | --- |
+| ![OSHW Mark US000121](images/OSHW_mark_US000121.png?raw=true) <br/> Certified [open source hardware](https://www.oshwa.org/definition/) by the [Open Source Hardware Association](https://www.oshwa.org) | This work is shared under a [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) License. <br/><br/> You are free to: **Share** - copy and redistribute the material in any medium or format.  **Adapt** - transform and build upon the material for any purpose, even commercially. <br/><br/> Under the following terms: **Attribution** - You must give appropriate credit, provide a link to the license, and indicate if changes were made. **ShareAlike** - You must distribute your contributions under the this same license. |
+
