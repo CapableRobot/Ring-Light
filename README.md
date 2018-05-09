@@ -1,12 +1,16 @@
 # LED Ring Light
 
+---
+
+Designed by [Capable Robot Components](http://capablerobot.com).  Follow us on [Twitter](http://twitter.com/capablerobot) for product announcements and updates.
+
+---
+
 This repository contains schematics, layout, and bill of materials for an [OSHW](https://www.oshwa.org/definition/) microscope LED ring light.  It can be controlled via the Capable Robot [SAMD21 Touch HMI](https://github.com/CapableRobot/SAMD21-Touch-HMI) or any other MCU which has software libraries for the NeoPixel.
 
 The PCB is powered and controlled via a 3.5mm TRS jack (more commonly known as a headphone jack).
 
 The ring light is designed to fit around the end of a [Opti-Tekscope OT-M HDMI Microscope](http://link.capablerobot.com/opti-otm), but it may fit around other microscopes with at 35mm diameter body.  The project has a second PCB, which a matched M3 bolt hole pattern, which allows the LED Ring Light PCB to be clamped onto the aluminum structure of the microscope with long M3 bolts.
-
-Designed by [Capable Robot Components](http://capablerobot.com).  Follow us on [Twitter](http://twitter.com/capablerobot) for product announcements and updates.
 
 | ![System In Use](images/system_in_use.jpg?raw=true) | ![System Setup](images/system_setup.jpg?raw=true) |
 | :-------------: | :-------------: |
@@ -46,6 +50,9 @@ Designed by [Capable Robot Components](http://capablerobot.com).  Follow us on [
 |  | HDMI Microscope | 1 |  | [Opti-Tekscope : OT-M](link.capablerobot.com/opti-otm) |
 |  | Clamp Arm | 1 |  | [Pangshi : Magic Arm](http://link.capablerobot.com/pangshi-magicarm) |
 
+## Revisions
+
+* [PPLG](tree/master/Revisions/PPLG) : Released 2018-03-08.
 
 ## License 
 
