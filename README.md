@@ -1,7 +1,5 @@
 # LED Ring Light
 
----
-
 Designed by [Capable Robot Components](http://capablerobot.com).  Follow us on [Twitter](http://twitter.com/capablerobot) for product announcements and updates.
 
 ---
