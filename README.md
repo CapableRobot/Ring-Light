@@ -45,14 +45,15 @@ The ring light is designed to fit around the end of a [Opti-Tekscope OT-M HDMI M
 |  | M3x15 SHCS | 2 |  | Generic |
 |  | M3 Hex Nut | 2 |  | Generic |
 |  |  |  |  |  |
-|  | HDMI Microscope | 1 |  | [Opti-Tekscope : OT-M](link.capablerobot.com/opti-otm) |
+|  | HDMI Microscope | 1 |  | [Opti-Tekscope : OT-M](http://link.capablerobot.com/opti-otm) |
 |  | Clamp Arm | 1 |  | [Pangshi : Magic Arm](http://link.capablerobot.com/pangshi-magicarm) |
+
 
 ## Revisions
 
 * [PPLG](tree/master/Revisions/PPLG) : Released 2018-03-08.
 
-## License 
+## License
 
 | OSHW Certification | License |
 | :---: | --- |
