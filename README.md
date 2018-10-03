@@ -55,9 +55,9 @@ The ring light is designed to fit around the end of a [Opti-Tekscope OT-M HDMI M
 
 ## License
 
-| OSHW Certification | License |
+| **License** | **OSHW Certification** |
 | --- | --- |
-| ![OSHW Mark US000121](images/OSHW_mark_US000121.png?raw=true) | Copyright Capable Robot Components 2018 <br><br>This documentation describes Open Hardware and is licensed under the [CERN OHL v1.2 or later](https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2). <br/><br/> You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2.  This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable conditions |
+| Copyright Capable Robot Components 2018 <br><br>This documentation describes Open Hardware and is licensed under the [CERN OHL v1.2 or later](https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2). <br/><br/> You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2.  This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable conditions | ![OSHW Mark US000121](images/OSHW_mark_US000121.png?raw=true) | 
 
 * Certified [open source hardware](https://www.oshwa.org/definition/) by the [Open Source Hardware Association](https://www.oshwa.org)
 * More detailed information about the CERN License is available in the [license](license) folder and on the [CERN website](https://www.ohwr.org/projects/cernohl/wiki).
