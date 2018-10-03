@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.6.0">
+<eagle version="9.1.3">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -481,8 +481,8 @@ LETTER landscape</description>
 <part name="H1" library="holes" library_urn="urn:adsk.eagle:library:237" deviceset="MOUNT-HOLE" device="3.3" package3d_urn="urn:adsk.eagle:package:14278/1"/>
 <part name="H2" library="holes" library_urn="urn:adsk.eagle:library:237" deviceset="MOUNT-HOLE" device="3.3" package3d_urn="urn:adsk.eagle:package:14278/1"/>
 <part name="FRAME1" library="CapableRobot" deviceset="LETTER_L" device="">
-<attribute name="LICENSE" value="CC 4.0 BY-SA"/>
-<attribute name="REV" value="PPLG"/>
+<attribute name="LICENSE" value="CERN OHL v1.2"/>
+<attribute name="REV" value="CRPPLG"/>
 <attribute name="TITLE" value="LED Ring Light Clamp"/>
 <attribute name="URL" value="https://github.com/CapableRobot/Ring-Light"/>
 </part>

@@ -40,8 +40,8 @@ The ring light is designed to fit around the end of a [Opti-Tekscope OT-M HDMI M
 | J1 | 3.5mm TRS Audio Jack | 1 |  | [CUI : SJ-3524-SMT-TR](https://octopart.com/sj-3524-smt-tr-cui-25947226) |
 | R1 | 0805 Resistor | 1 | 330 ohm | Generic |
 |  |  |  |  |  |
-|  | LED Ring Light PCB [PPLG] | 1 |  | [Capable Robot : Ring Light](https://oshpark.com/projects/HYLEr5Qr) |
-|  | Clamp PCB [PPLG] | 1 |  | [Capable Robot : Clamp](https://oshpark.com/projects/yLcuQ7yc) |
+|  | LED Ring Light PCB [CRPPLG] | 1 |  | [Capable Robot : Ring Light](https://oshpark.com/projects/HYLEr5Qr) |
+|  | Clamp PCB [CRPPLG] | 1 |  | [Capable Robot : Clamp](https://oshpark.com/projects/yLcuQ7yc) |
 |  | M3x15 SHCS | 2 |  | Generic |
 |  | M3 Hex Nut | 2 |  | Generic |
 |  |  |  |  |  |
@@ -51,11 +51,17 @@ The ring light is designed to fit around the end of a [Opti-Tekscope OT-M HDMI M
 
 ## Revisions
 
-* [PPLG](tree/master/Revisions/PPLG) : Released 2018-03-08.
+* [CRPPLG](tree/master/Revisions/CRPPLG) : Released 2018-03-08.  Relicensed under CERN OHL v1.2 on 2018-10-03.
 
 ## License
 
 | OSHW Certification | License |
-| :---: | --- |
-| ![OSHW Mark US000121](images/OSHW_mark_US000121.png?raw=true) <br/> Certified [open source hardware](https://www.oshwa.org/definition/) by the [Open Source Hardware Association](https://www.oshwa.org) | This work is shared under a [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) License. <br/><br/> You are free to: **Share** - copy and redistribute the material in any medium or format.  **Adapt** - transform and build upon the material for any purpose, even commercially. <br/><br/> Under the following terms: **Attribution** - You must give appropriate credit, provide a link to the license, and indicate if changes were made. **ShareAlike** - You must distribute your contributions under the this same license. |
+| --- | --- |
+| ![OSHW Mark US000121](images/OSHW_mark_US000121.png?raw=true) | Copyright Capable Robot Components 2018 <br><br>This documentation describes Open Hardware and is licensed under the [CERN OHL v1.2 or later](https://www.ohwr.org/licenses/cern-ohl/license_versions/v1.2). <br/><br/> You may redistribute and modify this documentation under the terms of the CERN OHL v.1.2.  This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable conditions |
+
+* Certified [open source hardware](https://www.oshwa.org/definition/) by the [Open Source Hardware Association](https://www.oshwa.org)
+* More detailed information about the CERN License is available in the [license](license) folder and on the [CERN website](https://www.ohwr.org/projects/cernohl/wiki).
+
+
+
 

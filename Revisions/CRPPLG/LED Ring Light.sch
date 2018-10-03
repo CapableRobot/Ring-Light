@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.6.0">
+<eagle version="9.1.3">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -210,6 +210,9 @@ Size: 5.0 x 5.0 mm
 Datasheet referenced for footprint: WS2812B
 Example device:
 WS2812B</description>
+<packageinstances>
+<packageinstance name="WS2812B"/>
+</packageinstances>
 </package3d>
 </packages3d>
 <symbols>
@@ -745,35 +748,65 @@ WS2812B</description>
 </package>
 </packages>
 <packages3d>
+<package3d name="3,3" urn="urn:adsk.eagle:package:14278/1" type="box" library_version="1">
+<description>MOUNTING HOLE 3.3 mm with drill center</description>
+<packageinstances>
+<packageinstance name="3,3"/>
+</packageinstances>
+</package3d>
 <package3d name="2,8" urn="urn:adsk.eagle:package:14271/1" type="box" library_version="1">
 <description>MOUNTING HOLE 2.8 mm with drill center</description>
+<packageinstances>
+<packageinstance name="2,8"/>
+</packageinstances>
 </package3d>
 <package3d name="3,0" urn="urn:adsk.eagle:package:14277/1" type="box" library_version="1">
 <description>MOUNTING HOLE 3.0 mm with drill center</description>
-</package3d>
-<package3d name="3,3" urn="urn:adsk.eagle:package:14278/1" type="box" library_version="1">
-<description>MOUNTING HOLE 3.3 mm with drill center</description>
+<packageinstances>
+<packageinstance name="3,0"/>
+</packageinstances>
 </package3d>
 <package3d name="3,6" urn="urn:adsk.eagle:package:14272/1" type="box" library_version="1">
 <description>MOUNTING HOLE 3.6 mm with drill center</description>
+<packageinstances>
+<packageinstance name="3,6"/>
+</packageinstances>
 </package3d>
 <package3d name="4,1" urn="urn:adsk.eagle:package:14273/1" type="box" library_version="1">
 <description>MOUNTING HOLE 4.1 mm with drill center</description>
+<packageinstances>
+<packageinstance name="4,1"/>
+</packageinstances>
 </package3d>
 <package3d name="4,5" urn="urn:adsk.eagle:package:14274/1" type="box" library_version="1">
 <description>MOUNTING HOLE 4.5 mm with drill center</description>
+<packageinstances>
+<packageinstance name="4,5"/>
+</packageinstances>
 </package3d>
 <package3d name="5,0" urn="urn:adsk.eagle:package:14276/1" type="box" library_version="1">
 <description>MOUNTING HOLE 5.0 mm with drill center</description>
+<packageinstances>
+<packageinstance name="5,0"/>
+</packageinstances>
 </package3d>
 <package3d name="3,2" urn="urn:adsk.eagle:package:14275/1" type="box" library_version="1">
 <description>MOUNTING HOLE 3.2 mm with drill center</description>
+<packageinstances>
+<packageinstance name="3,2"/>
+</packageinstances>
 </package3d>
 <package3d name="4,3" urn="urn:adsk.eagle:package:14289/1" type="box" library_version="1">
 <description>MOUNTING HOLE 4.3 mm with drill center</description>
+<packageinstances>
+<packageinstance name="4,3"/>
+</packageinstances>
 </package3d>
 <package3d name="5,5" urn="urn:adsk.eagle:package:14279/1" type="box" library_version="1">
 <description>MOUNTING HOLE 5.5 mm with drill center</description>
+<packageinstances>
+<packageinstance name="5,5"/>
+</packageinstances>
 </package3d>
 </packages3d>
 <symbols>
@@ -1019,8 +1052,8 @@ LETTER landscape</description>
 <part name="U$19" library="osterwood" deviceset="+3V3" device=""/>
 <part name="J1" library="osterwood" deviceset="SJ-352X-SMT" device=""/>
 <part name="FRAME1" library="CapableRobot" deviceset="LETTER_L" device="">
-<attribute name="LICENSE" value="CC 4.0 BY-SA"/>
-<attribute name="REV" value="PPLG"/>
+<attribute name="LICENSE" value="CERN OHL v1.2"/>
+<attribute name="REV" value="CRPPLG"/>
 <attribute name="TITLE" value="LED Ring Light"/>
 <attribute name="URL" value="https://github.com/CapableRobot/Ring-Light"/>
 </part>
