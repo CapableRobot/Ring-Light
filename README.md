@@ -8,7 +8,7 @@ This repository contains schematics, layout, and bill of materials for an [OSHW]
 
 The PCB is powered and controlled via a 3.5mm TRS jack (more commonly known as a headphone jack).
 
-The ring light is designed to fit around the end of a [Opti-Tekscope OT-M HDMI Microscope](http://link.capablerobot.com/opti-otm), but it may fit around other microscopes with at 35mm diameter body.  The project has a second PCB, which a matched M3 bolt hole pattern, which allows the LED Ring Light PCB to be clamped onto the aluminum structure of the microscope with long M3 bolts.
+The ring light is designed to fit around the end of a [Opti-Tekscope OT-M HDMI Microscope](https://www.amazon.com/Opti-Tekscope-Microscope-1920x1080p-Resolution-Brilliant/dp/B01JKHJRPM), but it may fit around other microscopes with at 35mm diameter body.  The project has a second PCB, which a matched M3 bolt hole pattern, which allows the LED Ring Light PCB to be clamped onto the aluminum structure of the microscope with long M3 bolts.
 
 | ![System In Use](images/system_in_use.jpg?raw=true) | ![System Setup](images/system_setup.jpg?raw=true) |
 | :-------------: | :-------------: |
@@ -45,8 +45,8 @@ The ring light is designed to fit around the end of a [Opti-Tekscope OT-M HDMI M
 |  | M3x15 SHCS | 2 |  | Generic |
 |  | M3 Hex Nut | 2 |  | Generic |
 |  |  |  |  |  |
-|  | HDMI Microscope | 1 |  | [Opti-Tekscope : OT-M](http://link.capablerobot.com/opti-otm) |
-|  | Clamp Arm | 1 |  | [Pangshi : Magic Arm](http://link.capablerobot.com/pangshi-magicarm) |
+|  | HDMI Microscope | 1 |  | [Opti-Tekscope : OT-M](https://www.amazon.com/Opti-Tekscope-Microscope-1920x1080p-Resolution-Brilliant/dp/B01JKHJRPM) |
+|  | Clamp Arm | 1 |  | [Pangshi : Magic Arm](https://www.amazon.com/gp/product/B06VYCVVVJ) |
 
 
 ## Revisions
